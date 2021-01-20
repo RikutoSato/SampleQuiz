@@ -6,6 +6,6 @@ target 'SampleQuiz' do
   use_frameworks!
 
   # Pods for SampleQuiz
-  pod 'Google-Mobile-Ads-SDK'
+  # pod 'Google-Mobile-Ads-SDK'
 
 end
